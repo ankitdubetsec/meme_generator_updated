@@ -1,0 +1,102 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: beige;
+}
+.starimg{
+    width: 80px;
+    background-color: beige;
+    
+    
+}
+
+h2{
+    margin-right: 150px;
+    margin-bottom: 0px;
+    width: 550px;
+}
+h4{
+    width: 400px;
+}
+.texts1{
+    margin: 50px 20px 30px 110px;
+}
+.btn{
+    position: relative;
+    left: 112px;
+    width: 61.5%;
+}
+
+.container{
+    margin: 20px;
+    position: relative;
+    left: 150px;
+    /* width: 50%; */
+    height: 70%;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    /* background-color: aqua; */
+    margin-right: 10px;
+    border: 1px black solid;
+    display: inline-block;
+    
+    
+}
+.container {
+    position: relative;
+    display: inline-block;
+    left: 100px;
+}
+
+.memeimg {
+    width: 70%;
+    height: auto;
+}
+
+.memetext1 {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1; /* Ensure text appears above the image */
+}
+
+.memetext1 {
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1; /* Ensure text appears above the image */
+    text-align: left;
+
+}
+.memetext2 {
+    position: absolute;
+    top: 100%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    z-index: 1; /* Ensure text appears above the image */
+    text-align: left;
+}
+#text1 {
+    top: 15%; /* Adjust the vertical position as needed */
+}
+
+#text2 {
+    top: 80%; /* Adjust the vertical position as needed */
+}
