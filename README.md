@@ -1,3 +1,3 @@
 # meme_generator
-lustrous-sfogliatella-3644f0.netlify.app
+https://lustrous-sfogliatella-3644f0.netlify.app/
  
